@@ -1,0 +1,6 @@
+nome,metrica,peso
+Pontas de Lança,xG_total,0.35
+Pontas de Lança,Goals_per_shot,0.25
+Pontas de Lança,Shots_on_target,0.2
+Pontas de Lança,xAG_total,0.1
+Pontas de Lança,Passes_completed,0.1
